@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavani</h1>
 <h3 align="center">A passionate Coder from India</h3>
+<img align="right" alt="Coding" width="400" src="https://gifs.alphacoders.com/gifs/view/212548">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavanireddy57&label=Profile%20views&color=0e75b6&style=flat" alt="bhavanireddy57" /> </p>
 
